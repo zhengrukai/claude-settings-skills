@@ -1,0 +1,12 @@
+
+backups/
+cache/
+downloads/
+file-history/
+ide/
+plugins/
+projects/
+sessions/
+shell-snapshots/
+telemetry/
+.history.jsonl
