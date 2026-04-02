@@ -14,3 +14,4 @@ shell-snapshots/
 tasks/
 telemetry/
 history.jsonl
+settings.json
