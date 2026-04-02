@@ -1,7 +1,8 @@
 {
   "env": {
     "ANTHROPIC_BASE_URL": "https://ai.comfly.chat",
-    "ANTHROPIC_AUTH_TOKEN": "sk-PkRXiIQZTQljNDi8MdU6C0jSpKCpZFEswTbUAY7EDsp8FGJV",
-    "ANTHROPIC_MODEL": "claude-opus-4-6-thinking"
-  }
+    "ANTHROPIC_AUTH_TOKEN": "sk-N1KFS14YGlJwPnHAYr4CijOFGRfXZBauZrHljKuWJOnKZdB8",
+    "ANTHROPIC_MODEL": "claude-opus-4-6"
+  },
+  "model": "claude-opus-4-6"
 }
